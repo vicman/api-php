@@ -1,5 +1,5 @@
 {
-    "name": "dacast/vicman_dacast_sdk_php",
+    "name": "vicman/dacast_sdk_php",
     "description" : "Dacast PHP SDK",
     "type": "library",
     "authors": [
