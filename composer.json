@@ -1,12 +1,14 @@
 {
     "name": "dacast/dacast_sdk_php",
     "description" : "Dacast PHP SDK",
+    "type": "library",
     "authors": [
         {
             "name": "Aldric Feuillebois",
             "email": "aldric.feuillebois@dacast.com"
         }
     ],
+    "minimum-stability": "dev",
     "license" : "MIT",
     "require": {
         "guzzlehttp/guzzle": "^6.2",
